@@ -55,6 +55,9 @@ The system combines four AWS services:
   Your browser does not support the video tag.
 </video>
 
+## 5.1) Demo Video is also available here
+- https://drive.google.com/file/d/1nHpET4sFaDQjwO0FMBQWwM9lupNxAU3w/view?usp=drive_link
+
 ## 6) Implementation Steps
 
 ### Step 1: EC2 Setup
