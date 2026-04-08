@@ -51,7 +51,7 @@ The system combines four AWS services:
 > Add your demo video path below (example: `assets/demo.mp4`).
 
 <video controls width="800">
-  <source src="video-ex.webm" type="video/mp4" />
+  <source src="video-ex.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
